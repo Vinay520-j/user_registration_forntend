@@ -22,3 +22,5 @@ Follow these steps to run the project locally:
 ```bash
 git clone <your-repo-url>
 cd <your-frontend-folder>
+npm install
+npm start
